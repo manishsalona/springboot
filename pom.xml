@@ -13,7 +13,7 @@
 	<groupId>com.in28minutes.springboot.rest.example</groupId>
 	<artifactId>spring-boot-2-jdbc-with-h2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>spring-boot-2-jdbc-with-h2</name>
 	<description>Spring Boot 2, JDBC and H2 - Example Project</description>
