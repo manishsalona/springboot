@@ -85,7 +85,7 @@
 		<repository>
             		<id>mariadb</id>
             		<name>MariaDB Repository</name>
-            		<url>https://maven.mariadb.org/mariadb-java-client</url>
+            		<url>https://mvnrepository.com/artifact/org.mariadb.jdbc/mariadb-java-client</url>
           	</repository>
 	</repositories>
 
